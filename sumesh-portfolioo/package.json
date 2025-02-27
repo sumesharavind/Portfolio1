@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio-template",
+  "name": "sumesh-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yujisatojr.github.io/react-portfolio-template",
+  "homepage": "https://github.com/sumesharavind/Portfolio1.git",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
